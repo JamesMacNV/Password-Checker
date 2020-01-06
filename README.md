@@ -1,4 +1,6 @@
 # Password-Checker
+Note: you need to run 'pip3 install requests'.
+
 A password checker to see how many times your password was found online.
 
 To run: download the file and run the checkmypass.py file at the command prompt, followed by the passwords you want to check.
